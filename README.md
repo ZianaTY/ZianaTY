@@ -1,4 +1,4 @@
-## Hii,Welcome to my Github page. I am Soofiya K Yoosuf.
+### Hii,Welcome to my Github page. I am Soofiya K Yoosuf.
 
 ### About Me  
 
@@ -22,7 +22,7 @@ Aspiring consultant with a vision for sustainable development and inclusive grow
 
 Let’s collaborate on projects that make a difference! 
 
-###Github Stats
+### Github Stats
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
