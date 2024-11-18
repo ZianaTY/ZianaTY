@@ -18,8 +18,6 @@ Aspiring consultant with a vision for sustainable development and inclusive grow
 
 Let’s collaborate on projects that make a difference! 
 
-### Github Stats
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=Soofiya_K_Yoosuf&show_icons=true&theme=radical)
 
 
 
