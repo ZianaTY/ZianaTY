@@ -1,4 +1,4 @@
-### Hii,Welcome to my Github page. I am Soofiya K Yoosuf.
+### Hii,I am Soofiya K Yoosuf.
 
 ### About Me  
 Sustainability Advocate | Data Enthusiast | Social Innovator  
